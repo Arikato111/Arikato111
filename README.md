@@ -1,13 +1,7 @@
 ## 👋  Hello !
-### 🌱 I’m currently learning ...
- - [ ] **Ja**va**Scr**ipt
- - [ ] **R**e**ac**t
- - [ ] **PH**P
- - [ ] **HT**ML
- - [ ] **Py**thon
- - [ ] **An**d **mo**re
-
- **I** **lo**ve **learn**ing 📖
+### 🌱 I’m currently learning
+ - **Ja**va**Scr**ipt | **R**e**ac**t | **PH**P | **HT**ML | **Py**thon | **Flu**t**te**r | **An**d **mo**re.
+ -  **I** **lo**ve **learn**ing 📖
  ## 🧑‍💻 About me
 
  - I am student
