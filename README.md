@@ -23,7 +23,8 @@
 <br>
 
 [![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
-## 🧑‍💻 About me
+
+### 🧑‍💻 About me
   
 - 🧑‍🎓 **I**  **a**m a **st**u**de**nt 🎂 **I**  **wa**s **bo**rn **i**n **No**v. **20**01 📖 **I**  **lo**ve **writ**ing 📝 **I** **li**ke **t**o **d**o **ma**ny **thi**ngs 📫
 
