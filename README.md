@@ -1,11 +1,10 @@
 
   
 
-## 👋 Hello !
+# 👋 Hi, I'm Nawasan.
 
 ### 🌱 I’m currently learning. . .
 
-React | JavaScript | TypeScript | Nodejs | Svelte | Git | HTML | CSS | PHP 
 
 <div style="display: inline_block"><br>
 
@@ -18,19 +17,16 @@ React | JavaScript | TypeScript | Nodejs | Svelte | Git | HTML | CSS | PHP
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg">
-  <!-- <img align="center" alt="Js" height="30" width="40" src=""> -->
-  
-</div>
-
-<div style="display: inline-block;"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg">
+
 </div>
 
+### 📊 Stats
+
+[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
 ## 🧑‍💻 About me
-
   
-
-- 🧑‍🎓 **I**  **a**m **st**u**de**nt 🎂 **I**  **wa**s **bo**rn **i**n **No**v. **20**01 📖 **I**  **lo**ve **writ**ing 📝 **I** **li**ke **t**o **d**o **ma**ny **thi**ngs 📫
+- 🧑‍🎓 **I**  **a**m a **st**u**de**nt 🎂 **I**  **wa**s **bo**rn **i**n **No**v. **20**01 📖 **I**  **lo**ve **writ**ing 📝 **I** **li**ke **t**o **d**o **ma**ny **thi**ngs 📫
 
 ## Quotes
 >"เราจะมองเห็นแจ่มชัดด้วยหัวใจเท่านั้น สิ่งสำคัญนั้นไม่อาจเห็นได้ด้วยตา"
@@ -38,12 +34,7 @@ React | JavaScript | TypeScript | Nodejs | Svelte | Git | HTML | CSS | PHP
 > ~ Little prince .
  
 ---
-<details>
-<summary> 📊 <b style="font-size:24px">Stats</b></summary>
 
-[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
-
-</details>
 
 <!--
 
