@@ -4,30 +4,27 @@
 ## 👋 Hello !
 
 ### 🌱 I’m currently learning. . .
-<details>
-<summary>🖼️ <strong>Website</strong></summary>
 
-##  🖼️  **We**b**si**te
-- ❤️ **Ja**va**Scr**ipt 
-  - [ ]  **Fro**nt-**en**d  | ⚛️**Rea**ct - ❤️**sve**lte - ⏭️**Ne**xt**js** 
-  - [ ]  **Ba**ck-**en**d | 🟢**No**de**js** 🛂 **e**x**pr**ess
+React | JavaScript | TypeScript | Nodejs | Svelte | Git | HTML | CSS | PHP 
 
-- 😫 **PH**P
-  - [ ]  **F**&**B**-**en**d | ⚫[**Pre**act](https://github.com/Arikato111/preact)
-  - [ ]   **Ba**ck-**en**d | 🐡**PH**P **wi**th **M**y**SQ**L
-- 🗂️ **Da**ta**ba**se 
-  - [ ]  🍏 **Mo**n**g**o**DB** - 🧯**Fi**re**ba**se - 🐡**M**y**SQ**L
+<div style="display: inline_block"><br>
 
-</details>
- 
-<details>
-<summary>📱<strong>Mobile</strong></summary>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Svelte" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/svelte/svelte-original.svg">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg">
+  <!-- <img align="center" alt="Js" height="30" width="40" src=""> -->
+  
+</div>
 
-## 📱Mobile
-- [ ] **And**roid 🤖 
-  - [ ] **Flu**tter 
-
-</details>
+<div style="display: inline-block;"><br>
+  <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg">
+</div>
 
 ## 🧑‍💻 About me
 
