@@ -20,8 +20,7 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg">
 
 </div>
-
-### 📊 Stats
+<br>
 
 [![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
 ## 🧑‍💻 About me
