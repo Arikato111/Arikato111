@@ -22,6 +22,16 @@
 
 <br>
 
+
+<br>
+
+[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
+
+
+<details>
+<summary><h2 style="display: inline-block;">Tools</h2></summary>
+<br>
+
 <div>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/python-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/flutter-original.svg">
@@ -31,10 +41,7 @@
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/ubuntu-plain.svg">
   <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/vscode-original.svg">
 </div>
-
-<br>
-
-[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
+</details>
 
 ### 🧑‍💻 About me
   
