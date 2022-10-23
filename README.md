@@ -37,6 +37,7 @@
   <img align="center" alt="Nextjs" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/nextjs-original.svg">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/mongodb-plain.svg">
   <img align="center" alt="Firebase" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/firebase-plain.svg">
+  <img align="center" alt="vercel" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/vercel.svg">
   <img align="center" alt="bash" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/bash-plain.svg">
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/ubuntu-plain.svg">
   <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/vscode-original.svg">
