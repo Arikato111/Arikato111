@@ -29,29 +29,13 @@
 [![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
 
 
-<details>
-<summary><h3 style="display: inline-block;">🔨additional tools</h3></summary>
-<br>
-
-<div>
-  <img align="center" alt="Nextjs" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/nextjs-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/mongodb-plain.svg">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/firebase-plain.svg">
-  <img align="center" alt="vercel" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/vercel.svg">
-  <img align="center" alt="bash" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/bash-plain.svg">
-  <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/ubuntu-plain.svg">
-  <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/vscode-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/mysql-original-wordmark.svg">
-</div>
-</details>
-
 ### 🧑‍💻 About me
   
-- 🧑‍🎓 **I**  **a**m a **st**u**de**nt 🎂 **I**  **wa**s **bo**rn **i**n **No**v. **20**01 📖 **I**  **lo**ve **writ**ing 📝 **I** **li**ke **t**o **d**o **ma**ny **thi**ngs 📫
+🧑‍🎓 **I**  **a**m a **st**u**de**nt 🎂 **I**  **wa**s **bo**rn **i**n **No**v. **20**01 📖 **I**  **lo**ve **writ**ing 📝 **I** **li**ke **t**o **d**o **ma**ny **thi**ngs 📫
 
 <div>
 <a href="https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/">
-<img width="30" height="40" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/linkedin-original.svg">
+<img width="30" height="40" alt="linkin" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/linkedin-original.svg">
 </a>
 </div>
 
