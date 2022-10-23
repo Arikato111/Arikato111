@@ -7,7 +7,7 @@
 
 
 <div style="display: inline_block"><br>
-
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/nextjs-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/react-original.svg">
   <img align="center" alt="Svelte" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/svelte-original.svg">
   <img align="center" alt="Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/nodejs-plain.svg">
@@ -17,10 +17,21 @@
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/css3-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/php-plain.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/python-original.svg">
-  <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/flutter-original.svg">
 
 </div>
+
+<br>
+
+<div>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/python-original.svg">
+  <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/flutter-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/mongodb-plain.svg">
+  <img align="center" alt="Firebase" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/firebase-plain.svg">
+  <img align="center" alt="bash" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/bash-plain.svg">
+  <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/ubuntu-plain.svg">
+  <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/vscode-original.svg">
+</div>
+
 <br>
 
 [![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
