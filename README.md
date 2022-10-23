@@ -37,6 +37,9 @@
 <a href="https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/">
 <img width="30" height="40" alt="linkin" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/linkedin-original.svg">
 </a>
+<a href="mailto: arikato110011@gmail.com">
+<img width="30" height="40" alt="gmail" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/gmail.svg">
+</a>
 </div>
 
 ## Quotes
