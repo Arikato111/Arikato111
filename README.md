@@ -1,7 +1,5 @@
-
-  
-
-## 👋 Hi, I'm Nawasan.
+## 📚 knowledge is open source 📚
+### 👋 Hi, I'm Nawasan.
 
 ### 🌱 I’m currently learning. . .
 
