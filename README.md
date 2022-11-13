@@ -1,4 +1,4 @@
-## 📚 knowledge is open source 📚
+## 📚 knowledge is open source
 ### 👋 Hi, I'm Nawasan.
 
 ### 🌱 I’m currently learning. . .
