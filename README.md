@@ -26,7 +26,7 @@
 
 <br>
 
-[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide_border=true)](https://github.com/Arikato111)
+[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact)](https://github.com/Arikato111)
 
 
 ### 🧑‍💻 About me
