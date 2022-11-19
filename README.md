@@ -1,6 +1,8 @@
 ## 📚 knowledges is open source
 ### 👋 Hi, I'm Nawasan.
 
+<img width="300" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/images/code.png">
+
 ### 🌱 I’m currently learning. . .
 
 
