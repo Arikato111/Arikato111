@@ -17,6 +17,7 @@
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/css3-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/php-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/python-original.svg">
+  <img align="center" alt="bash" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/bash-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/flutter-original.svg">
 
 </div>
