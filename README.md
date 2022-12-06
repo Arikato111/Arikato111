@@ -5,7 +5,6 @@
 
 ### 🌱 I’m currently learning. . .
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/react-original.svg">
   <img align="center" alt="Svelte" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/svelte-original.svg">
@@ -21,10 +20,7 @@
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/flutter-original.svg">
 
 </div>
-
 <br>
-
-
 <br>
 
 [![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact)](https://github.com/Arikato111)
@@ -33,6 +29,8 @@
 ### 🧑‍💻 About me
   
 🧑‍🎓 **I**  **a**m a **st**u**de**nt 🎂 **I**  **wa**s **bo**rn **i**n **No**v. **20**01 📖 **I**  **lo**ve **writ**ing 📝 **I** **li**ke **t**o **d**o **ma**ny **thi**ngs 📫
+
+### 📫 How to reach me: ...
 
 <div>
 <a href="https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/">
@@ -44,9 +42,13 @@
 </div>
 
 ## Quotes
->"เราจะมองเห็นแจ่มชัดด้วยหัวใจเท่านั้น สิ่งสำคัญนั้นไม่อาจเห็นได้ด้วยตา"
+>"It is only with the heart that one can see rightly; what is essential is invisible to the eye"
 >
 > ~ Little prince .
+ 
+ >"If I have seen a little further it is by standing on the shoulders of Giants."
+>
+> ~ Sir Isaac Newton
  
 ---
 
