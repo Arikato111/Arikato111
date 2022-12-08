@@ -23,7 +23,7 @@
 <br>
 <br>
 
-[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&custom_title=Languages)](https://github.com/Arikato111)
+[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact)](https://github.com/Arikato111)
 
 
 ### 🧑‍💻 About me
