@@ -25,6 +25,7 @@
 
 [![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact)](https://github.com/Arikato111)
 
+![](https://komarev.com/ghpvc/?username=arikato111)
 
 ### 🧑‍💻 About me
   
