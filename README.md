@@ -2,11 +2,11 @@
 
 ### 👋 Hi, I'm Nawasan.
 
-<img width="300" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/images/code2.png">
+[<img width="300" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/images/code2.png">](https://arikato111.vercel.app)
 
 ### 🌱 I’m currently learning. . .
 
-<div style="display: inline_block;background-color:white;">
+<div style="display: inline_block">
 
 #### languages
 
