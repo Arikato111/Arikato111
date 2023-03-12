@@ -28,15 +28,15 @@
 
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/react-original.svg">
   <img align="center" alt="Svelte" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/svelte-original.svg">
-  <img align="center" alt="nextjs" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Light.svg">
+  <img align="center" alt="nextjs" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/nextjs-original.svg">
   <img align="center" alt="tailwindcss" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/tailwindcss-plain.svg">
   <img align="center" alt="Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/nodejs-plain.svg">
   <img align="center" alt="mysql" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/mysql-original-wordmark.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/flutter-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/git-original.svg">
   <img align="center" alt="bash" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/bash-original.svg">
-  <img align="center" alt="linux" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg">
-  <img align="center" alt="vscode" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Light.svg">
+  <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/linux-plain.svg">
+  <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/vscode-original.svg">
 </div>
 </div>
 
