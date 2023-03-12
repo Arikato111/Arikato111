@@ -34,6 +34,8 @@
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/flutter-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/git-original.svg">
   <img align="center" alt="bash" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/bash-original.svg">
+  <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/linux-plain.svg">
+  <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/vscode-original.svg">
 </div>
 </div>
 
