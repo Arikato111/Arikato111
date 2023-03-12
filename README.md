@@ -6,7 +6,7 @@
 
 ### 🌱 I’m currently learning. . .
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 #### languages
 
@@ -32,13 +32,9 @@
   <img align="center" alt="Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/nodejs-plain.svg">
   <img align="center" alt="mysql" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/mysql-original-wordmark.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/flutter-original.svg">
-</div>
-
-</div>
-
-<div>
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/git-original.svg">
   <img align="center" alt="bash" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/bash-original.svg">
+</div>
 </div>
 
 <br>
