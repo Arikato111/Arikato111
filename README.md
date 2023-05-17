@@ -19,6 +19,7 @@
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/css3-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/php-plain.svg">
+  <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/dart.svg">
 
 </div>
 
