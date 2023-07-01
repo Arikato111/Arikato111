@@ -23,8 +23,8 @@
 
 </div>
 
-
 #### tools
+
 <div>
 
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/react-original.svg">
@@ -74,6 +74,65 @@
 > ~ Sir Isaac Newton
 
 ---
+
+## Repositories
+
+### <details>
+
+<summary>Projects</summary>
+
+- [.me](https://github.com/Arikato111/.me)
+- [social-web-php](https://github.com/Arikato111/social-web-php)
+- [load-link-nextjs](https://github.com/Arikato111/load-link-nextjs)
+- [use-import_vscode-extensions](https://github.com/Arikato111/use-import_vscode-extensions)
+- [package-web-php](https://github.com/Arikato111/package-web-php)
+- [what-to-read](https://github.com/Arikato111/what-to-read)
+- [movie-random-react](https://github.com/Arikato111/movie-random-react)
+- [next-food-random](https://github.com/Arikato111/next-food-random)
+- [lottery-prediction](https://github.com/Arikato111/lottery-prediction)
+- [social-web-react](https://github.com/Arikato111/social-web-react)
+- [char-random](https://github.com/Arikato111/char-random)
+- [blockdont-next](https://github.com/Arikato111/blockdont-next)
+- [life-coach-quotes](https://github.com/Arikato111/life-coach-quotes)
+- [Api_with_Flutter](https://github.com/Arikato111/Api_with_Flutter)
+- [List_App_withFlutter](https://github.com/Arikato111/List_App_withFlutter)
+- PHP packages
+  - [control](https://github.com/Arikato111/control)  
+  - [PHP_SPA](https://github.com/Arikato111/PHP_SPA)
+  - [NEXIT](https://github.com/Arikato111/NEXIT)
+  - [use-import](https://github.com/Arikato111/use-import)
+  - [spelte-php](https://github.com/Arikato111/spelte-php)
+  - [wisit-express](https://github.com/Arikato111/wisit-express)
+  - [wisit-router](https://github.com/Arikato111/wisit-router)
+  - [wisios](https://github.com/Arikato111/wisios)
+  - [php-dotenv](https://github.com/Arikato111/php-dotenv)
+
+
+
+</details>
+
+### <details>
+
+<summary>Learning</summary>
+
+- [learn-prisma-api](https://github.com/Arikato111/learn-prisma-api)
+- [learn-django](https://github.com/Arikato111/learn-django)
+- [learn-react-native](https://github.com/Arikato111/learn-react-native)
+- [mongodb-node-ts](https://github.com/Arikato111/mongodb-node-ts)
+- [fullstack-learn](https://github.com/Arikato111/fullstack-learn)
+- [learn-api-with-nodejs](https://github.com/Arikato111/learn-api-with-nodejs)
+- [learn-sveltekit](https://github.com/Arikato111/learn-sveltekit)
+
+</details>
+
+### <details>
+
+<summary>competitions</summary>
+
+- [website-writing-competition](https://github.com/Arikato111/website-writing-competition)
+- [learn-member-mysql](https://github.com/Arikato111/learn-member-mysql)
+
+</details>
 
 <!--
 
