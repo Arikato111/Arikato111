@@ -78,7 +78,7 @@
 ## Repositories
 
 <details>
-<summary><h3>Projects</h3></summary>
+<summary>Projects</summary>
 
 - [.me](https://github.com/Arikato111/.me)
 - [social-web-php](https://github.com/Arikato111/social-web-php)
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-<summary><h3>Learning</h3></summary>
+<summary>Learning</summary>
 
 - [learn-prisma-api](https://github.com/Arikato111/learn-prisma-api)
 - [learn-django](https://github.com/Arikato11/learn-django)
@@ -122,7 +122,7 @@
 </details>
 
 <details>
-<summary><h3>competitions</h3></summary>
+<summary>competitions</summary>
 
 - [website-writing-competition](https://github.com/Arikato111/website-writing-competition)
 - [learn-member-mysql](https://github.com/Arikato111/learn-member-mysql)
