@@ -80,7 +80,6 @@
 <details>
 <summary>Projects</summary>
 
-- [.me](https://github.com/Arikato111/.me)
 - [social-web-php](https://github.com/Arikato111/social-web-php)
 - [load-link-nextjs](https://github.com/Arikato111/load-link-nextjs)
 - [use-import_vscode-extensions](https://github.com/Arikato111/use-import_vscode-extensions)
