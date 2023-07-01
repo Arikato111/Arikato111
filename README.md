@@ -77,9 +77,8 @@
 
 ## Repositories
 
-### <details>
-
-<summary>Projects</summary>
+<details>
+<summary>Projects></summary>
 
 - [.me](https://github.com/Arikato111/.me)
 - [social-web-php](https://github.com/Arikato111/social-web-php)
@@ -97,7 +96,7 @@
 - [Api_with_Flutter](https://github.com/Arikato111/Api_with_Flutter)
 - [List_App_withFlutter](https://github.com/Arikato111/List_App_withFlutter)
 - PHP packages
-  - [control](https://github.com/Arikato111/control)  
+  - [control](https://github.com/Arikato111/control)
   - [PHP_SPA](https://github.com/Arikato111/PHP_SPA)
   - [NEXIT](https://github.com/Arikato111/NEXIT)
   - [use-import](https://github.com/Arikato111/use-import)
@@ -107,16 +106,13 @@
   - [wisios](https://github.com/Arikato111/wisios)
   - [php-dotenv](https://github.com/Arikato111/php-dotenv)
 
-
-
 </details>
 
-### <details>
-
-<summary>Learning</summary>
+<details>
+<summary><h3>Learning</h3></summary>
 
 - [learn-prisma-api](https://github.com/Arikato111/learn-prisma-api)
-- [learn-django](https://github.com/Arikato111/learn-django)
+- [learn-django](https://github.com/Arikato11/learn-django)
 - [learn-react-native](https://github.com/Arikato111/learn-react-native)
 - [mongodb-node-ts](https://github.com/Arikato111/mongodb-node-ts)
 - [fullstack-learn](https://github.com/Arikato111/fullstack-learn)
@@ -125,8 +121,7 @@
 
 </details>
 
-### <details>
-
+<details>
 <summary>competitions</summary>
 
 - [website-writing-competition](https://github.com/Arikato111/website-writing-competition)
