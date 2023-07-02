@@ -7,9 +7,6 @@
 ### 🌱 I’m currently learning. . .
 
 <div style="display: inline_block">
-
-#### languages
-
 <div>
 <!-- lang -->
 
@@ -22,9 +19,7 @@
   <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/dart.svg">
 
 </div>
-
-#### tools
-
+<br>
 <div>
 
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/react-original.svg">
