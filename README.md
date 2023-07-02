@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Nawasan.
 
-[<img width="300" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/images/code2.png">](https://arikato111.vercel.app)
+Hello, I'm Nawatsan Wisitsingakorn. I am currently studying at university. I like the open source idea so I try to write open source projects too, even it's not much. You can visit my open source projects at here. have a good day! 
 
 ### 🌱 I’m currently learning. . .
 
