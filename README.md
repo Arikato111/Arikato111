@@ -2,7 +2,12 @@
 
 ### 👋 Hi, I'm Nawasan.
 
-  Hello, I'm Nawatsan Wisitsingakorn. I am currently studying at university. I like the open source idea so I try to write open source projects too, even it's not much. You can visit my open source projects at here. have a good day! 😃
+Hello, I'm Nawatsan Wisitsingakorn. I am currently studying at university. I like the open source idea so I try to write open source projects too, even it's not much. You can visit my open source projects at here. have a good day! 
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arikato110011@gmail.com)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Arikato111)
+[![my-website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arikato111.vercel.app)
 
 ### 🌱 I’m currently learning. . .
 
@@ -42,21 +47,6 @@
 [![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact)](https://github.com/Arikato111)
 
 ![](https://komarev.com/ghpvc/?username=arikato111)
-
-### 🧑‍💻 About me
-
-🧑‍🎓 **I** **a**m a **st**u**de**nt 🎂 **I** **wa**s **bo**rn **i**n **No**v. **20**01 📖 **I** **lo**ve **writ**ing 📝 **I** **li**ke **t**o **d**o **ma**ny **thi**ngs 📫
-
-### 📫 How to reach me: ...
-
-<div>
-<a href="https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/">
-<img align="center" width="40" height="30" alt="linkin" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/linkedin-original.svg">
-</a>
-<a href="mailto: arikato110011@gmail.com">
-<img align="center" width="40" height="30" alt="gmail" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/gmail.svg">
-</a>
-</div>
 
 ## Quotes
 
