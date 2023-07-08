@@ -69,20 +69,26 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <details>
 <summary>Projects</summary>
 
-- [social-web-php](https://github.com/Arikato111/social-web-php)
 - [load-link-nextjs](https://github.com/Arikato111/load-link-nextjs)
-- [use-import_vscode-extensions](https://github.com/Arikato111/use-import_vscode-extensions)
 - [package-web-php](https://github.com/Arikato111/package-web-php)
 - [what-to-read](https://github.com/Arikato111/what-to-read)
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
 - [next-food-random](https://github.com/Arikato111/next-food-random)
 - [lottery-prediction](https://github.com/Arikato111/lottery-prediction)
-- [social-web-react](https://github.com/Arikato111/social-web-react)
 - [char-random](https://github.com/Arikato111/char-random)
 - [blockdont-next](https://github.com/Arikato111/blockdont-next)
+- [use-import_vscode-extensions](https://github.com/Arikato111/use-import_vscode-extensions)
 - [life-coach-quotes](https://github.com/Arikato111/life-coach-quotes)
-- [Api_with_Flutter](https://github.com/Arikato111/Api_with_Flutter)
-- [List_App_withFlutter](https://github.com/Arikato111/List_App_withFlutter)
+
+- Social web projects
+  - [social-web-php](https://github.com/Arikato111/social-web-php)
+  - [social-web-react](https://github.com/Arikato111/social-web-react)
+  - [social-web-flutter](https://github.com/Arikato111/social-web-flutter)
+
+- Mobile applications
+  - [Api_with_Flutter](https://github.com/Arikato111/Api_with_Flutter)
+  - [List_App_withFlutter](https://github.com/Arikato111/List_App_withFlutter)
+
 - PHP packages
   - [control](https://github.com/Arikato111/control)
   - [PHP_SPA](https://github.com/Arikato111/PHP_SPA)
