@@ -7,6 +7,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <p align="center">
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/)
+[![npm account](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~arikato111)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arikato110011@gmail.com)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Arikato111)
 [![my-website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arikato111.vercel.app)
@@ -75,7 +76,6 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
 - [next-food-random](https://github.com/Arikato111/next-food-random)
 - [lottery-prediction](https://github.com/Arikato111/lottery-prediction)
-- [char-random](https://github.com/Arikato111/char-random)
 - [blockdont-next](https://github.com/Arikato111/blockdont-next)
 - [use-import_vscode-extensions](https://github.com/Arikato111/use-import_vscode-extensions)
 - [life-coach-quotes](https://github.com/Arikato111/life-coach-quotes)
@@ -88,6 +88,10 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 - Mobile applications
   - [Api_with_Flutter](https://github.com/Arikato111/Api_with_Flutter)
   - [List_App_withFlutter](https://github.com/Arikato111/List_App_withFlutter)
+
+- Nodejs packages
+  - [char-random](https://github.com/Arikato111/char-random)
+  - [find-grade](https://github.com/Arikato111/find-grade)
 
 - PHP packages
   - [control](https://github.com/Arikato111/control)
