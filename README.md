@@ -71,7 +71,6 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <summary>Projects</summary>
 
 - [load-link-nextjs](https://github.com/Arikato111/load-link-nextjs)
-- [package-web-php](https://github.com/Arikato111/package-web-php)
 - [what-to-read](https://github.com/Arikato111/what-to-read)
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
 - [next-food-random](https://github.com/Arikato111/next-food-random)
@@ -95,6 +94,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 
 - PHP packages
   - [control](https://github.com/Arikato111/control)
+  - [package-web-php](https://github.com/Arikato111/package-web-php)
   - [PHP_SPA](https://github.com/Arikato111/PHP_SPA)
   - [NEXIT](https://github.com/Arikato111/NEXIT)
   - [use-import](https://github.com/Arikato111/use-import)
