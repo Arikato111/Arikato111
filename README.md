@@ -75,7 +75,6 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
 - [next-food-random](https://github.com/Arikato111/next-food-random)
 - [lottery-prediction](https://github.com/Arikato111/lottery-prediction)
-- [blockdont-next](https://github.com/Arikato111/blockdont-next)
 - [use-import_vscode-extensions](https://github.com/Arikato111/use-import_vscode-extensions)
 - [life-coach-quotes](https://github.com/Arikato111/life-coach-quotes)
 
@@ -109,13 +108,17 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <details>
 <summary>Learning</summary>
 
-- [learn-prisma-api](https://github.com/Arikato111/learn-prisma-api)
-- [learn-django](https://github.com/Arikato11/learn-django)
-- [learn-react-native](https://github.com/Arikato111/learn-react-native)
-- [mongodb-node-ts](https://github.com/Arikato111/mongodb-node-ts)
-- [fullstack-learn](https://github.com/Arikato111/fullstack-learn)
-- [learn-api-with-nodejs](https://github.com/Arikato111/learn-api-with-nodejs)
-- [learn-sveltekit](https://github.com/Arikato111/learn-sveltekit)
+- [learn-prisma-api](https://github.com/Arikato111/learn-prisma-api) (prisma with mongodb)
+- [learn-django](https://github.com/Arikato11/learn-django) (Django framework)
+- [learn-react-native](https://github.com/Arikato111/learn-react-native) (React-native mobile application)
+- [mongodb-node-ts](https://github.com/Arikato111/mongodb-node-ts) (api, express, mongodb)
+- [blockdont-next](https://github.com/Arikato111/blockdont-next) (nextjs, bootstrap5, mongodb)
+- [fullstack-learn](https://github.com/Arikato111/fullstack-learn) (front-end & backend)
+- [learn-api-with-nodejs](https://github.com/Arikato111/learn-api-with-nodejs) (express, MySQL)
+- [learn-sveltekit](https://github.com/Arikato111/learn-sveltekit) (svelte-kit)
+- [Learnning-api-and-Router](https://github.com/Arikato111/Learnning-api-and-Router) (react-router-dom, axios, antd)
+- [tic-tac-toc-react](https://github.com/Arikato111/tic-tac-toc-react)
+- [income-expense-React-Learnning](https://github.com/Arikato111/income-expense-React-Learnning)
 
 </details>
 
