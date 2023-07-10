@@ -2,7 +2,7 @@
 
 ### 🤓 Hi, I'm Nawasan.
 
-Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like the open source idea so I try to write open source projects too, even it's not much. You can visit my open source projects at here. have a good day! 
+Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like the open source idea so I try to write open source projects too, even it's not much. You can visit my open source projects at here. have a good day!
 
 <p align="center">
 
@@ -82,20 +82,28 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 
 </div>
 
-- Social web projects
+- <details>
+  <summary>Social web projects</summary>
+
   - [social-web-php](https://github.com/Arikato111/social-web-php)
   - [social-web-react](https://github.com/Arikato111/social-web-react)
   - [social-web-flutter](https://github.com/Arikato111/social-web-flutter)
 
-- Mobile applications
+- <details>
+  <summary>Mobile applications</summary>
+
   - [Api_with_Flutter](https://github.com/Arikato111/Api_with_Flutter)
   - [List_App_withFlutter](https://github.com/Arikato111/List_App_withFlutter)
 
-- Nodejs packages
+- <details>
+  <summary>Nodejs packages</summary>
+
   - [char-random](https://github.com/Arikato111/char-random)
   - [find-grade](https://github.com/Arikato111/find-grade)
 
-- PHP packages
+- <details>
+  <summary>PHP packages</summary>
+
   - [control](https://github.com/Arikato111/control)
   - [package-web-php](https://github.com/Arikato111/package-web-php)
   - [PHP_SPA](https://github.com/Arikato111/PHP_SPA)
@@ -108,6 +116,10 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
   - [php-dotenv](https://github.com/Arikato111/php-dotenv)
 
 </details>
+</details>
+</details>
+</details>
+</detail>
 
 <details>
 <summary>Learning</summary>
