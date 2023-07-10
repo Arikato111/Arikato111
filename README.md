@@ -70,6 +70,8 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <details>
 <summary>Projects</summary>
 
+<div>
+
 - [load-link-nextjs](https://github.com/Arikato111/load-link-nextjs)
 - [what-to-read](https://github.com/Arikato111/what-to-read)
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
@@ -77,6 +79,8 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 - [lottery-prediction](https://github.com/Arikato111/lottery-prediction)
 - [use-import_vscode-extensions](https://github.com/Arikato111/use-import_vscode-extensions)
 - [life-coach-quotes](https://github.com/Arikato111/life-coach-quotes)
+
+</div>
 
 - Social web projects
   - [social-web-php](https://github.com/Arikato111/social-web-php)
