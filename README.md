@@ -6,11 +6,11 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 
 <p align="center">
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/)
-[![npm account](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~arikato111)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arikato110011@gmail.com)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Arikato111)
-[![my-website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arikato111.vercel.app)
+[![linkedin](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/linkedin.svg)](https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/)
+[![npm account](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/npm.svg)](https://www.npmjs.com/~arikato111)
+[![email](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/gmail.svg)](mailto:arikato110011@gmail.com)
+[![youtube](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/youtube.svg)](https://youtube.com/@Arikato111)
+[![my-website](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/website.svg)](https://arikato111.vercel.app)
 
 </p>
 
