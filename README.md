@@ -27,6 +27,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/css3-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/php-plain.svg">
   <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/dart.svg">
+  <img align="center" alt="Rust" height="40" width="50" src="https://raw.githubusercontent.com/Arikato111/Arikato111/main/icons/rust.svg">
 
 </div>
 <br>
