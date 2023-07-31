@@ -125,6 +125,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <details>
 <summary>Learning</summary>
 
+- [learn-rust-http](https://github.com/Arikato111/learn-rust-http)
 - [learn-socket-io](https://github.com/Arikato111/learn-socket-io)
 - [learn-prisma-api](https://github.com/Arikato111/learn-prisma-api) (prisma with mongodb)
 - [learn-django](https://github.com/Arikato11/learn-django) (Django framework)
