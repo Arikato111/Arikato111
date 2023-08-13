@@ -78,7 +78,6 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
 - [next-food-random](https://github.com/Arikato111/next-food-random)
 - [lottery-prediction](https://github.com/Arikato111/lottery-prediction)
-- [use-import_vscode-extensions](https://github.com/Arikato111/use-import_vscode-extensions)
 - [life-coach-quotes](https://github.com/Arikato111/life-coach-quotes)
 
 </div>
