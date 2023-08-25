@@ -2,7 +2,7 @@
 
 ### 🤓 Hi, I'm Nawasan.
 
-Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like the open source idea so I try to write open source projects too, even it's not much. You can visit my open source projects at here. have a good day!
+Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like the open source idea so I write open-source projects too, even if it's not much. You can visit my open-source projects here. Have a good day!
 
 <p align="center">
 
