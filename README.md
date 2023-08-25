@@ -61,7 +61,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 
 > "It is only with the heart that one can see rightly; what is essential is invisible to the eye"
 >
-> ~ Little prince .
+> ~ Little prince.
 
 > "If I have seen a little further it is by standing on the shoulders of Giants."
 >
@@ -77,6 +77,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <div>
 
 - [load-link-nextjs](https://github.com/Arikato111/load-link-nextjs)
+- [lad-theme-firefox](https://github.com/Arikato111/lad-theme-firefox)
 - [what-to-read](https://github.com/Arikato111/what-to-read)
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
 - [next-food-random](https://github.com/Arikato111/next-food-random)
