@@ -130,6 +130,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <details>
 <summary>Learning</summary>
 
+- [learn-rust-projects](https://github.com/Arikato111/learn-rust-projects) (my rust learing projects here)
 - [learn-rust-http](https://github.com/Arikato111/learn-rust-http) (rust with http web server)
 - [learn-socket-io](https://github.com/Arikato111/learn-socket-io)
 - [learn-prisma-api](https://github.com/Arikato111/learn-prisma-api) (prisma with mongodb)
