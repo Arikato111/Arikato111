@@ -10,7 +10,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 [![npm account](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/npm.svg)](https://www.npmjs.com/~arikato111)
 [![email](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/gmail.svg)](mailto:nawasan.dev@gmail.com)
 [![youtube](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/youtube.svg)](https://youtube.com/@Arikato111)
-[![my-website](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/website.svg)](https://arikato111.vercel.app)
+[![my-website](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/website.svg)](https://nawasan.dev)
 
 </p>
 
