@@ -8,7 +8,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 
 [![linkedin](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/linkedin.svg)](https://www.linkedin.com/in/nawasan-wisitsingkhon-183680239/)
 [![npm account](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/npm.svg)](https://www.npmjs.com/~arikato111)
-[![email](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/gmail.svg)](mailto:nawasan.dev@gmail.com)
+[![email](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/gmail.svg)](mailto:contact@nawasan.dev)
 [![youtube](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/youtube.svg)](https://youtube.com/@Arikato111)
 [![my-website](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/website.svg)](https://nawasan.dev)
 
