@@ -1,6 +1,6 @@
 ## 💭 knowledge is open source
 
-### 🤓 Hi, I'm Nawasan.
+### 😄 Hi, I'm Nawasan.
 
 Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like the open source idea so I write open-source projects too, even if it's not much. You can visit my open-source projects here. Have a good day!
 
