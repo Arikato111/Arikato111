@@ -6,11 +6,11 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 
 <p align="center">
 
-[![linkedin](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/linkedin.svg)](https://www.linkedin.com/in/nawasan/)
-[![npm account](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/npm.svg)](https://www.npmjs.com/~arikato111)
-[![email](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/gmail.svg)](mailto:contact@nawasan.dev)
-[![youtube](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/youtube.svg)](https://youtube.com/@Arikato111)
-[![my-website](https://raw.githubusercontent.com/Arikato111/Arikato111/main/cache/website.svg)](https://nawasan.dev)
+[![linkedin](cache/linkedin.svg)](https://www.linkedin.com/in/nawasan/)
+[![npm account](cache/npm.svg)](https://www.npmjs.com/~arikato111)
+[![email](cache/gmail.svg)](mailto:contact@nawasan.dev)
+[![youtube](cache/youtube.svg)](https://youtube.com/@Arikato111)
+[![my-website](cache/website.svg)](https://nawasan.dev)
 
 </p>
 
