@@ -61,7 +61,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 <details>
 <summary>📊 wakatime stat</summary>
 <div>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Arikato111/683d5356-51fe-4905-8f3e-8cddde0e7456.png" /></a>
+<a href="https://wakatime.com/@Arikato111"><img src="https://wakatime.com/share/@Arikato111/683d5356-51fe-4905-8f3e-8cddde0e7456.png" /></a>
 </div>
 </details>
 
