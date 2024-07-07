@@ -56,14 +56,7 @@ Hello, I'm Nawasan Wisitsingkhon. I am currently studying at university. I like 
 
 <br>
 
-[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact)](https://github.com/Arikato111)
-
-<details>
-<summary>📊 wakatime stat</summary>
-<div>
-<a href="https://wakatime.com/@Arikato111"><img src="https://wakatime.com/share/@Arikato111/683d5356-51fe-4905-8f3e-8cddde0e7456.png" /></a>
-</div>
-</details>
+[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php)](https://github.com/Arikato111)
 
 ## Quotes
 
