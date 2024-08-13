@@ -1,6 +1,6 @@
 <!--## 💭 knowledge is open source-->
 
-## 🧑‍💻 Hi, I'm [Nawasan](https://nawasan.dev)
+## 🧑‍💻 Hi, I'm Nawasan.
 
 Hello, My name is Nawasan Wisitsingkhon. I am currently studying at university. I like the idea of open source, so I publish my projects on github, it maybe not much. You can visit my open-source projects here. Have a good day!
 
