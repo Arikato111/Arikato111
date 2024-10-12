@@ -40,11 +40,11 @@ Hello, My name is Nawasan Wisitsingkhon. I am currently studying at university. 
   <img align="center" alt="tailwindcss" height="40" width="50" src="icons/tailwindcss-plain.svg">
   <img align="center" alt="Nodejs" height="40" width="50" src="icons/nodejs-plain.svg">
   <img align="center" alt="mysql" height="40" width="50" src="icons/mysql-dark.svg">
-  <img align="center" alt="Flutter" height="40" width="50" src="icons/flutter-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="icons/git-original.svg">
   <img align="center" alt="bash" height="40" width="50" src="icons/bash-original.svg">
   <img align="center" alt="linux" height="40" width="50" src="icons/linux-plain.svg">
   <img align="center" alt="docker" height="40" width="50" src="icons/Docker.svg">
+  <img align="center" alt="Flutter" height="40" width="50" src="icons/flutter-original.svg">
   <img align="center" alt="vscode" height="40" width="50" src="icons/vscode-original.svg">
 </div>
 </div>
