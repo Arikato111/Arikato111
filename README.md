@@ -3,7 +3,7 @@
 ## 👋 Hello friend!
 
 My name is Nawasan.
-I'm a person who is familiar with technology, interested in open source, uses Linux, and writes the code.
+A person who is familiar with technology, interested in open source, uses Linux, and writes the code.
 
 <p align="center">
 
