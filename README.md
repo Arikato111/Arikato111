@@ -1,6 +1,6 @@
 <!--## 💭 knowledge is open source-->
 
-## 🧑‍💻 Hello friend.
+## 👋 Hello friend!
 
 My name is Nawasan.
 I'm a person who is familiar with technology, interested in open source, uses Linux, and writes the code.
@@ -15,7 +15,7 @@ I'm a person who is familiar with technology, interested in open source, uses Li
 
 </p>
 
-### 🔨 Languages and Tools ...
+### 📔 Languages 
 
 <!-- lang -->
 ![rust]
@@ -24,9 +24,31 @@ I'm a person who is familiar with technology, interested in open source, uses Li
 ![python]
 ![html]
 ![php]
+![clang]
 ![dart]
 
+### ☕ Tools
+
+<!-- frameworks and tools images -->
+![react]
+![nextjs]
+![svelte]
+![node]
+![tailwind]
+![mysql]
+![mongo]
+![flutter]
+<br>
+![git]
+![bash]
+![linux]
+![docker]
+![vim]
+
+
+
 <!-- image links -->
+[clang]: https://img.shields.io/badge/C-00599C?logo=c&logoColor=white
 [dart]: https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white
 [php]: https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white
 [html]: https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white
@@ -34,21 +56,6 @@ I'm a person who is familiar with technology, interested in open source, uses Li
 [typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
 [Javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
 [python]: https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
-
-<!-- frameworks and tools images -->
-  ![react]
-  ![svelte]
-  ![nextjs]
-  ![node]
-  ![tailwind]
-  ![mysql]
-  ![mongo]
-  ![git]
-  ![bash]
-  ![linux]
-  ![docker]
-  ![flutter]
-  ![vim]
 
   <!-- frameworks and tools links -->
   [vim]: https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white
@@ -77,7 +84,7 @@ I'm a person who is familiar with technology, interested in open source, uses Li
 
 </details>
 
-## Quotes
+## 💭 Quotes
 
 > "It is only with the heart that one can see rightly; what is essential is invisible to the eye"
 >
@@ -89,7 +96,7 @@ I'm a person who is familiar with technology, interested in open source, uses Li
 
 ---
 
-## Repositories
+## 🐈 Repositories
 
 <details>
 <summary>Projects</summary>
