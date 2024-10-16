@@ -17,9 +17,8 @@ I like simple things, and happy to learn what I interested. I like the programmi
 
 </p>
 
-### 📔 Languages 
+### ☕ Languages 
 
-<!-- lang -->
 ![rust]
 ![typescript]
 ![Javascript]
@@ -28,10 +27,6 @@ I like simple things, and happy to learn what I interested. I like the programmi
 ![php]
 ![clang]
 ![dart]
-
-### ☕ Tools
-
-<!-- frameworks and tools images -->
 ![react]
 ![nextjs]
 ![svelte]
