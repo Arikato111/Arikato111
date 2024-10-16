@@ -76,7 +76,7 @@ I like simple things, and happy to learn what I interested. I like the programmi
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php&theme=dark">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php&theme=dark&hide_border=true">
  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php">
 </picture>
 
