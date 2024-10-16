@@ -10,14 +10,14 @@ I like simple things, and happy to learn what I interested. I like the programmi
 <p align="center">
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawasan/)
-[![npm account](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/~arikato111)
 [![email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@nawasan.dev)
+[![npm account](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/~arikato111)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Arikato111)
 [![my-website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://nawasan.dev)
 
 </p>
 
-### ☕ Languages 
+### ☕ Languages and tools
 
 ![rust]
 ![typescript]
@@ -26,6 +26,7 @@ I like simple things, and happy to learn what I interested. I like the programmi
 ![html]
 ![php]
 ![clang]
+![go]
 ![dart]
 ![react]
 ![nextjs]
@@ -44,6 +45,7 @@ I like simple things, and happy to learn what I interested. I like the programmi
 
 
 <!-- image links -->
+[go]: https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white
 [clang]: https://img.shields.io/badge/C-00599C?logo=c&logoColor=white
 [dart]: https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white
 [php]: https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white
@@ -73,12 +75,11 @@ I like simple things, and happy to learn what I interested. I like the programmi
 ![](https://komarev.com/ghpvc/?username=arikato111)
 
 
-<details>
-<summary>github stats</summary>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php&theme=dark">
+ <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php">
+</picture>
 
-[![Github state](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php)](https://github.com/Arikato111)
-
-</details>
 
 ## 💭 Quotes
 
