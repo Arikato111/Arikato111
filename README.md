@@ -40,7 +40,6 @@ I like simple things, and happy to learn what I interested. I like the programmi
 ![mysql]
 ![mongo]
 ![flutter]
-<br>
 ![git]
 ![bash]
 ![linux]
