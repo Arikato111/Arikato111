@@ -3,9 +3,9 @@
 ## 👋 Hello friend!
 
 My name is Nawasan,
-a person who is familiar with technology, interested in open source, uses Linux, and writes the code.
+a person who is familiar with technology, interested in open-source, uses Linux, and writes the code.
 
-I like simple things, and happy to learn what I interested.
+I like simple things, and happy to learn what I interested. I like the programming languages which is make sense to write and simple to read, Yes I like Rust.
 
 
 <p align="center">
