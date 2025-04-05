@@ -101,10 +101,14 @@ I like simple things, and happy to learn what I interested. I like the programmi
 <div>
 
 - [Tenjin](https://github.com/Arikato111/Tenjin) (SDN Framework)
+- [fpas](https://github.com/Arikato111/fpas)
+- [btc-wallet](https://github.com/Arikato111/btc-wallet) (Generate bitcoin wallet)
 - [byfi-rust](https://github.com/Arikato111/byfi-rust)
 - [find_subnet](https://github.com/Arikato111/find_subnet)
 - [load-link-nextjs](https://github.com/Arikato111/load-link-nextjs)
-- [lad-theme-firefox](https://github.com/Arikato111/lad-theme-firefox)
+- [block-script](https://github.com/Arikato111/block-script) (Firefox extension)
+- [lad-theme-firefox](https://github.com/Arikato111/lad-theme-firefox) (Theme for firefox)
+- [chromium-darktheme](https://github.com/Arikato111/chromium-darktheme) (Darktheme for chromium based browser)
 - [what-to-read](https://github.com/Arikato111/what-to-read)
 - [movie-random-react](https://github.com/Arikato111/movie-random-react)
 - [next-food-random](https://github.com/Arikato111/next-food-random)
