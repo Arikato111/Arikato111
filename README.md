@@ -3,8 +3,6 @@ version: 2.0.0
 -->
 <!--## 💭 knowledge is open source-->
 
-## Hello friend!
-
 <!-- Generated from https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 -->
 ```
 888888  dP"Yb  88""Yb     .dP"Y8  dP"Yb   dP""b8 88 888888 888888 Yb  dP 
@@ -14,7 +12,7 @@ version: 2.0.0
 
 ```
 
-I am just
+Hello friend! I am 
 a person who is familiar with technology, interested in open-source, uses Linux, and writes the code.
 
 [Email][email] | [Website][website] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
