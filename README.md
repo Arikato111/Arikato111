@@ -4,13 +4,14 @@ version: 2.0.0
 <!--## 💭 knowledge is open source-->
 
 <!-- Generated from https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 -->
+
 ```red
- ___  __   __      __   __   __     ___ ___     
-|__  /  \ |__)    /__` /  \ /  ` | |__   |  \ / 
-|    \__/ |  \    .__/ \__/ \__, | |___  |   |  
+ ___  __   __      __   __   __     ___ ___
+|__  /  \ |__)    /__` /  \ /  ` | |__   |  \ /
+|    \__/ |  \    .__/ \__/ \__, | |___  |   |
 ```
 
-Hello friend! I am 
+Hello friend! I am
 a person who is familiar with technology, interested in open-source, uses Linux, and writes the code.
 
 [Email][email] | [Website][website] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
@@ -22,8 +23,8 @@ a person who is familiar with technology, interested in open-source, uses Linux,
 [npm]: https://www.npmjs.com/~arikato111
 [linkedin]: https://www.linkedin.com/in/nawasan/
 
-
 <!-- Repositories begin -->
+
 ## Repositories
 
 <details>
@@ -118,31 +119,34 @@ a person who is familiar with technology, interested in open-source, uses Linux,
 </details>
 <!-- Repositories end -->
 
-
 ### 🚀 Technologies & Tools
 
-| Languages         | Frameworks / Libraries | Databases   | Tools & OS           |
-|-------------------|------------------------|-------------|----------------------|
-| Rust              | React                  | MySQL       | Git                  |
-| TypeScript        | NestJS                 | MongoDB     | Vim                  |
-| JavaScript        | Next.js                | PostgreSQL  | Linux                |
-| Python            | Node.js                |             | Docker               |
-| HTML              | Tailwind CSS           |             | Bash                 |
-| PHP               | Svelte                 |             |                      |
-| C/C++ (Clang)     | Flutter                |             |                      |
-| Go                |                        |             |                      |
-| Dart              |                        |             |                      |
-
-
+| Languages     | Frameworks / Libraries | Databases  | Tools & OS |
+| ------------- | ---------------------- | ---------- | ---------- |
+| Rust          | React                  | MySQL      | Git        |
+| TypeScript    | NestJS                 | MongoDB    | Vim        |
+| JavaScript    | Next.js                | PostgreSQL | Linux      |
+| Python        | Node.js                |            | Docker     |
+| HTML          | Tailwind CSS           |            | Bash       |
+| PHP           | Svelte                 |            |            |
+| C/C++ (Clang) | Flutter                |            |            |
+| Go            |                        |            |            |
+| Dart          |                        |            |            |
 
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
 ![](https://komarev.com/ghpvc/?username=arikato111)
 
-
 ## 💭 Quotes
 
-> "It is only with the heart that one can see rightly; what is essential is invisible to the eye"
+> "If you know the enemy and
+> know yourself, you need not fear the result of a hundred
+> battles. If you know yourself but not the enemy, for every
+> victory gained you will also suffer a defeat."
 >
-> ~ Little prince.
+> \- Sun Tzu's The Art of War
+
+<!-- > "It is only with the heart that one can see rightly; what is essential is invisible to the eye"
+>
+> ~ Little prince. -->
 
 ---
