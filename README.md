@@ -133,6 +133,10 @@ a person who is familiar with technology, interested in open-source, uses Linux,
 | Go            |                        |            |            |
 | Dart          |                        |            |            |
 
+## 🏢 Badges
+
+![tryhackme-badge](assets/tryhackme-badge.png)
+
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
 ![](https://komarev.com/ghpvc/?username=arikato111)
 
