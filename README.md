@@ -14,7 +14,7 @@ version: 2.0.0
 Hello friend! I am
 a person who is familiar with technology, interested in open-source, uses Linux, and writes the code.
 
-[Email][email] | [Website][website] | [Resume][resume]] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
+[Email][email] | [Website][website] | [Resume][resume] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
 
 [email]: mailto:contact@nawasan.dev
 [website]: https://nawasan.dev
