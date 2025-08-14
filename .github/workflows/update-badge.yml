@@ -13,6 +13,12 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: set email
+      run: git config --global user.email 'contact@nawasan.dev'
+
+    - name: set name
+      run: git config --global user.name 'Nawasan Wisitsingkhon'
+
     - name: Fetch TryHackMe Badge
       uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:
