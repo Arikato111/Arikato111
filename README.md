@@ -11,8 +11,8 @@ version: 2.0.0
 |    \__/ |  \    .__/ \__/ \__, | |___  |   |
 ```
 
-Hello friend! I am
-a person who is familiar with technology, interested in open-source, uses Linux, and writes the code.
+Hello friend!
+I am just a programmer who's a college dropout, unemployed, and has no experience.
 
 [Email][email] | [Website][website] | [Resume][resume] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
 
