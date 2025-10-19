@@ -136,7 +136,7 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 
 ## 🏢 Badges
 
-[![tryhackme-badge](assets/tryhackme-badge.png)](https://tryhackme.com/p/socketzero)
+[![tryhackme-badge](assets/thm_propic.png)](https://tryhackme.com/p/socketzero)
 
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
 ![](https://komarev.com/ghpvc/?username=arikato111)
