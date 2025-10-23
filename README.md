@@ -24,6 +24,11 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 [linkedin]: https://www.linkedin.com/in/nawasan/
 [resume]: https://resume.nawasan.dev
 
+### Internet Relay Chat (IRC)
+
+* **Network:** `Libera.Chat` ( `irc.libera.chat` )
+* **Channel:** `#SocketZero`
+
 <!-- Repositories begin -->
 
 ## Repositories
