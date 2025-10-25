@@ -14,6 +14,8 @@ version: 2.0.0
 Hello friend!
 I am just a programmer who's a college dropout, unemployed, and has no experience.
 
+## Contact me
+
 [Email][email] | [Website][website] | [Resume][resume] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
 
 [email]: mailto:contact@nawasan.dev
@@ -142,6 +144,11 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 ## 🏢 Badges
 
 [![tryhackme-badge](assets/thm_propic.png)](https://tryhackme.com/p/socketzero)
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php&theme=dark&hide_border=true">
+ <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php">
+</picture>
 
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
 ![](https://komarev.com/ghpvc/?username=arikato111)
