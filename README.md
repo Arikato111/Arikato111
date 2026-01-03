@@ -6,15 +6,15 @@ version: 2.0.0
 <!-- Generated from https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 -->
 
 ```
- _____          _        _     _____              
-|__  /___   ___| | _____| |_ _|__  /___ _ __ ___  
-  / // _ \ / __| |/ / _ \ __(_) / // _ \ '__/ _ \ 
+ _____          _        _     _____
+|__  /___   ___| | _____| |_ _|__  /___ _ __ ___
+  / // _ \ / __| |/ / _ \ __(_) / // _ \ '__/ _ \
  / /| (_) | (__|   <  __/ |_ _ / /|  __/ | | (_) |
-/____\___/ \___|_|\_\___|\__(_)____\___|_|  \___/ 
+/____\___/ \___|_|\_\___|\__(_)____\___|_|  \___/
 ```
 
 Hello friend!
-I am just a programmer who's a college dropout, unemployed, and has no experience.
+I'm on the Red team in Cybersecurity.
 
 ## Contact me
 
@@ -31,8 +31,8 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 
 ### Internet Relay Chat (IRC)
 
-* **Network:** `Libera.Chat` ( `irc.libera.chat` )
-* **Channel:** `#ZocketZero`
+- **Network:** `Libera.Chat` ( `irc.libera.chat` )
+- **Channel:** `#ZocketZero`
 
 <!-- Repositories begin -->
 
@@ -69,27 +69,23 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 
 - <details>
   <summary>Social web projects</summary>
-
   - [social-web-php](https://github.com/ZocketZero/social-web-php)
   - [social-web-react](https://github.com/ZocketZero/social-web-react)
   - [social-web-flutter](https://github.com/ZocketZero/social-web-flutter)
 
 - <details>
   <summary>Mobile applications</summary>
-
   - [Api_with_Flutter](https://github.com/ZocketZero/Api_with_Flutter)
   - [List_App_withFlutter](https://github.com/ZocketZero/List_App_withFlutter)
 
 - <details>
   <summary>Nodejs packages</summary>
-
   - [stdio.h-ts](https://github.com/ZocketZero/stdio.h-ts)
   - [char-random](https://github.com/ZocketZero/char-random)
   - [find-grade](https://github.com/ZocketZero/find-grade)
 
 - <details>
   <summary>PHP packages</summary>
-
   - [control](https://github.com/ZocketZero/control)
   - [package-web-php](https://github.com/ZocketZero/package-web-php)
   - [PHP_SPA](https://github.com/ZocketZero/PHP_SPA)
@@ -139,17 +135,17 @@ I am just a programmer who's a college dropout, unemployed, and has no experienc
 
 ### 🚀 Technologies & Tools
 
-| Languages     | Frameworks / Libraries | Databases  | Tools & OS |
-| ------------- | ---------------------- | ---------- | ---------- |
-| Rust          | React                  | MySQL      | Git        |
-| TypeScript    | NestJS                 | MongoDB    | Vim        |
-| JavaScript    | Next.js                | PostgreSQL | Linux      |
-| Python        | Node.js                |            | Docker     |
-| HTML          | Tailwind CSS           |            | Bash       |
-| PHP           | Svelte                 |            |            |
-| C/C++ (Clang) | Flutter                |            |            |
-| Go            |                        |            |            |
-| Dart          |                        |            |            |
+| Languages     | Frameworks / Libraries | Databases  | Tools & OS    |
+| ------------- | ---------------------- | ---------- | ------------- |
+| Rust          | React                  | MySQL      | Git           |
+| TypeScript    | NestJS                 | MongoDB    | Vim/Neovim    |
+| JavaScript    | Next.js                | PostgreSQL | Linux         |
+| Python        | Node.js                |            | Docker/Podman |
+| HTML          | Tailwind CSS           |            | Bash          |
+| PHP           | Svelte                 |            |               |
+| C/C++ (Clang) | Flutter                |            |               |
+| Go            |                        |            |               |
+| Dart          |                        |            |               |
 
 ## 🏢 Badges
 
