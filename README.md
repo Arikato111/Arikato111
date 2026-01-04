@@ -140,7 +140,7 @@ I'm on the Red team in Cybersecurity.
 
 </details>
 <!-- Repositories end -->
-
+<!--
 ### 🚀 Technologies & Tools
 
 | Languages     | Frameworks / Libraries | Databases  | Tools & OS    |
@@ -156,6 +156,7 @@ I'm on the Red team in Cybersecurity.
 | Dart          |                        |            |               |
 | HTML          |                        |            |               |
 
+-->
 ## 🏢 Badges
 
 [![tryhackme-badge](assets/thm_propic.png)](https://tryhackme.com/p/socketzero)
