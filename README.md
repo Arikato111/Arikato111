@@ -153,7 +153,7 @@ I'm on the Red team in Cybersecurity.
 
 ## 🏢 Badges
 
-[![tryhackme-badge](assets/thm_propic.png)](https://tryhackme.com/p/socketzero)
+[![tryhackme-badge](https://raw.githubusercontent.com/ZocketZero/ZocketZero/main/assets/tryhackme-badge.png)](https://tryhackme.com/p/socketzero)
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZocketZero&layout=compact&hide=php&theme=dark&hide_border=true">
@@ -161,7 +161,7 @@ I'm on the Red team in Cybersecurity.
 </picture>
 
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
-![](https://komarev.com/ghpvc/?username=arikato111)
+![profile_view](https://komarev.com/ghpvc/?username=arikato111)
 
 ## 💭 Quotes
 
