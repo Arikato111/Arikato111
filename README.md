@@ -148,22 +148,25 @@ I'm on the Red team in Cybersecurity.
 | Languages     | Frameworks / Libraries | Databases   | Tools & OS |
 | ------------- | ---------------------- | ----------- | ---------- |
 | ![rust]       | ![react]               | ![mysql]    | ![linux]   |
-| ![typescript] | ![nextjs]              | ![mongodb]  | ![vim]     |
+| ![typescript] | ![nextjs]              | ![mariadb]  | ![vim]     |
 | ![javascript] | ![nestjs]              | ![postgres] | ![neovim]  |
-| ![python]     | ![nodejs]              |             | ![docker]  |
-| ![ruby]       | ![svelte]              |             | ![bash]    |
-| ![php]        | ![flutter]             |             |            |
+| ![python]     | ![nodejs]              | ![mongodb]  | ![docker]  |
+| ![ruby]       | ![svelte]              | ![firebase] | ![bash]    |
+| ![php]        | ![flutter]             |             | ![latex]   |
 | ![c]          | ![tailwindcss]         |             |            |
 | ![cpp]        | ![mat_ui]              |             |            |
 | ![golang]     |                        |             |            |
 | ![dart]       |                        |             |            |
 | ![html]       |                        |             |            |
 
+[mariadb]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
+[firebase]: https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
 [linux]: https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white
 [vim]: https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white
 [neovim]: https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
 [docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [bash]: https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
+[latex]: https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white
 [mysql]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
 [mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
