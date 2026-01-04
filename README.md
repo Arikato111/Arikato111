@@ -145,17 +145,47 @@ I'm on the Red team in Cybersecurity.
 
 ### 🚀 Technologies & Tools
 
-| Languages     | Frameworks / Libraries | Databases  | Tools & OS    |
-| ------------- | ---------------------- | ---------- | ------------- |
-| Rust          | React                  | MySQL      | Git           |
-| TypeScript    | NestJS                 | MongoDB    | Vim/Neovim    |
-| JavaScript    | Next.js                | PostgreSQL | Linux         |
-| Python        | Node.js                |            | Docker/Podman |
-| HTML          | Tailwind CSS           |            | Bash          |
-| PHP           | Svelte                 |            |               |
-| C/C++ (Clang) | Flutter                |            |               |
-| Go            |                        |            |               |
-| Dart          |                        |            |               |
+| Languages     | Frameworks / Libraries | Databases   | Tools & OS |
+| ------------- | ---------------------- | ----------- | ---------- |
+| ![rust]       | ![react]               | ![mysql]    | ![linux]   |
+| ![typescript] | ![nextjs]              | ![mongodb]  | ![vim]     |
+| ![javascript] | ![nestjs]              | ![postgres] | ![neovim]  |
+| ![python]     | ![nodejs]              |             | ![docker]  |
+| ![ruby]       | ![svelte]              |             | ![bash]    |
+| ![php]        | ![flutter]             |             |            |
+| ![c]          | ![tailwindcss]         |             |            |
+| ![cpp]        | ![mat_ui]              |             |            |
+| ![golang]     |                        |             |            |
+| ![dart]       |                        |             |            |
+| ![html]       |                        |             |            |
+
+[linux]: https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white
+[vim]: https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white
+[neovim]: https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
+[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[bash]: https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
+[mysql]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
+[mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[nextjs]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+[nestjs]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
+[nodejs]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[svelte]: https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white
+[flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
+[tailwindcss]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[mat_ui]: https://img.shields.io/badge/Material%20UI-%23FFFFFF?style=for-the-badge&logo=MUI&logoColor=#007FFF
+[rust]: https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
+[typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[php]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+[cpp]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[dart]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white
 
 ## 🏢 Badges
 
