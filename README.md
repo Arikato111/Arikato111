@@ -18,16 +18,16 @@ I'm on the Red team in Cybersecurity.
 
 ## Contact me
 
-[Email][email] | [Website][website] | [Gitlab][gitlab] | [Resume][resume] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
+[Email][email] | [Gitlab][gitlab] | [Website][website] | [Resume][resume] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
 
-[email]: mailto:contact@nawasan.dev
+[email]: mailto:zocketzero@proton.me
+[gitlab]: https://gitlab.com/ZocketZero
 [website]: https://nawasan.dev
 [youtube]: https://youtube.com/@Arikato111
 [crates.io]: https://crates.io/users/ZocketZero
 [npm]: https://www.npmjs.com/~arikato111
 [linkedin]: https://www.linkedin.com/in/nawasan/
 [resume]: https://resume.nawasan.dev
-[gitlab]: https://gitlab.com/ZocketZero
 
 ### Internet Relay Chat (IRC)
 
@@ -138,14 +138,15 @@ I'm on the Red team in Cybersecurity.
 | Languages     | Frameworks / Libraries | Databases  | Tools & OS    |
 | ------------- | ---------------------- | ---------- | ------------- |
 | Rust          | React                  | MySQL      | Git           |
-| TypeScript    | NestJS                 | MongoDB    | Vim/Neovim    |
-| JavaScript    | Next.js                | PostgreSQL | Linux         |
-| Python        | Node.js                |            | Docker/Podman |
-| HTML          | Tailwind CSS           |            | Bash          |
-| PHP           | Svelte                 |            |               |
+| TypeScript    | Next.js                | MongoDB    | Vim/Neovim    |
+| JavaScript    | NestJS                 | PostgreSQL | Linux         |
+| Python        | Node.js                | MariaDB    | Docker/Podman |
+| Ruby          | Tailwind CSS           | Firebase   | Bash          |
+| PHP           | Svelte                 |            | Latex         |
 | C/C++ (Clang) | Flutter                |            |               |
-| Go            |                        |            |               |
+| Go            | Material UI            |            |               |
 | Dart          |                        |            |               |
+| HTML          |                        |            |               |
 
 ## 🏢 Badges
 
