@@ -23,19 +23,11 @@ I'm on the Red team in Cybersecurity.
 [email]: mailto:zocketzero@proton.me
 [gitlab]: https://gitlab.com/ZocketZero
 [website]: https://nawasan.dev
-[website_logo]: ./cache/NAWASAN.svg
-[gitlab]: https://gitlab.com/ZocketZero
-[gitlab_logo]: https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
 [resume]: https://resume.nawasan.dev
-[resume_logo]: https://img.shields.io/badge/RESUME-yellow?style=for-the-badge
 [youtube]: https://youtube.com/@Arikato111
-[youtube_logo]: https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white
 [crates.io]: https://crates.io/users/ZocketZero
-[crates_logo]: https://img.shields.io/badge/crates.io-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
 [npm]: https://www.npmjs.com/~arikato111
-[npm_logo]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
 [linkedin]: https://www.linkedin.com/in/nawasan/
-[resume]: https://resume.nawasan.dev
 
 ### Internet Relay Chat (IRC)
 
@@ -140,6 +132,7 @@ I'm on the Red team in Cybersecurity.
 
 </details>
 <!-- Repositories end -->
+
 <!--
 ### 🚀 Technologies & Tools
 
@@ -157,6 +150,7 @@ I'm on the Red team in Cybersecurity.
 | HTML          |                        |            |               |
 
 -->
+
 ## 🏢 Badges
 
 [![tryhackme-badge](assets/thm_propic.png)](https://tryhackme.com/p/socketzero)
