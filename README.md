@@ -18,31 +18,24 @@ I'm on the Red team in Cybersecurity.
 
 ## Contact me
 
-| [![email]][protonmail] | [![gitlab_logo]][gitlab] | [![website_logo]][website] | [![resume_logo]][resume] | 
-|:-:|:-:|:-:|:-:|
-| [![youtube_logo]][youtube] | [![crates_logo]][crates.io] | [![npm_logo]][npm] | [![linkedin_logo]][linkedin] |
+|   [![email]][protonmail]   |  [![gitlab_logo]][gitlab]   | [![website_logo]][website] |   [![resume_logo]][resume]   |
+| :------------------------: | :-------------------------: | :------------------------: | :--------------------------: |
+| [![youtube_logo]][youtube] | [![crates_logo]][crates.io] |     [![npm_logo]][npm]     | [![linkedin_logo]][linkedin] |
 
 [email]: https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 [protonmail]: mailto:zocketzero@proton.me
-
 [website]: https://nawasan.dev
 [website_logo]: ./cache/NAWASAN.svg
-
 [gitlab]: https://gitlab.com/ZocketZero
 [gitlab_logo]: https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
-
 [resume]: https://resume.nawasan.dev
 [resume_logo]: https://img.shields.io/badge/RESUME-yellow?style=for-the-badge
-
 [youtube]: https://youtube.com/@Arikato111
 [youtube_logo]: https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white
-
 [crates.io]: https://crates.io/users/ZocketZero
 [crates_logo]: https://img.shields.io/badge/crates.io-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
-
 [npm]: https://www.npmjs.com/~arikato111
 [npm_logo]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
-
 [linkedin]: https://www.linkedin.com/in/nawasan/
 [linkedin_logo]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
