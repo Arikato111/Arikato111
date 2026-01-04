@@ -18,14 +18,10 @@ I'm on the Red team in Cybersecurity.
 
 ## Contact me
 
-[![email]][protonmail] | 
-[![gitlab_logo]][gitlab] | 
-[![website_logo]][website] | 
-[![resume_logo]][resume] | 
-[![youtube_logo]][youtube] | 
-[![crates_logo]][crates.io] | 
-[![npm_logo]][npm] | 
-[![linkedin_logo]][linkedin]
+| | | | |
+|-|-|-|-|
+| [![email]][protonmail] | [![gitlab_logo]][gitlab] | [![website_logo]][website] | [![resume_logo]][resume] | 
+| [![youtube_logo]][youtube] | [![crates_logo]][crates.io] | [![npm_logo]][npm] | [![linkedin_logo]][linkedin] |
 
 [email]: https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 [protonmail]: mailto:zocketzero@proton.me
