@@ -14,7 +14,7 @@ version: 3.0.0
 ```
 
 Hello friend!
-I'm on the Red team in Cybersecurity.
+I'm on the Red team in Cybersecurity, I use Linux, and enjoy coding.
 
 ## Contact me
 
@@ -33,6 +33,19 @@ I'm on the Red team in Cybersecurity.
 
 - **Network:** `Libera.Chat` ( `irc.libera.chat` )
 - **Channel:** `#ZocketZero`
+
+## 🏢 Badges
+
+[![tryhackme-badge](https://raw.githubusercontent.com/ZocketZero/ZocketZero/main/assets/tryhackme-badge.png)](https://tryhackme.com/p/socketzero)
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZocketZero&layout=compact&hide=php&theme=dark&hide_border=true">
+ <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php">
+</picture>
+
+[![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
+![profile_view](https://komarev.com/ghpvc/?username=arikato111)
+
 
 <!-- Repositories begin -->
 
@@ -151,17 +164,6 @@ I'm on the Red team in Cybersecurity.
 
 -->
 
-## 🏢 Badges
-
-[![tryhackme-badge](https://raw.githubusercontent.com/ZocketZero/ZocketZero/main/assets/tryhackme-badge.png)](https://tryhackme.com/p/socketzero)
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZocketZero&layout=compact&hide=php&theme=dark&hide_border=true">
- <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikato111&layout=compact&hide=php">
-</picture>
-
-[![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
-![profile_view](https://komarev.com/ghpvc/?username=arikato111)
 
 ## 💭 Quotes
 
