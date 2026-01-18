@@ -38,7 +38,6 @@ I'm on the Red team in Cybersecurity, I use Linux, and enjoy coding.
 
 [![tryhackme-badge](https://raw.githubusercontent.com/ZocketZero/ZocketZero/main/assets/tryhackme-badge.png)](https://tryhackme.com/p/socketzero)
 
-![tryhackme-badge-direct](https://tryhackme-badges.s3.amazonaws.com/ZocketZero.png)
 
 <!-- <picture> -->
 <!--  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZocketZero&layout=compact&hide=php&theme=dark&hide_border=true"> -->
