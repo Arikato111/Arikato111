@@ -50,6 +50,8 @@ I'm on the Red team in Cybersecurity, I use Linux, and enjoy coding.
 
 <!-- Repositories begin -->
 
+<!--
+
 ## Repositories
 
 <details>
@@ -145,6 +147,9 @@ I'm on the Red team in Cybersecurity, I use Linux, and enjoy coding.
 - [learn-member-mysql](https://github.com/ZocketZero/learn-member-mysql)
 
 </details>
+
+--->
+
 <!-- Repositories end -->
 
 <!--
