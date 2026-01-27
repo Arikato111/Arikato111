@@ -36,7 +36,7 @@ I'm on the Red team in Cybersecurity, I use Linux, and enjoy coding.
 
 ## 🏢 Badges
 
-[![tryhackme-badge](https://raw.githubusercontent.com/ZocketZero/ZocketZero/main/assets/tryhackme-badge.png)](https://tryhackme.com/p/socketzero)
+[![tryhackme-badge](https://raw.githubusercontent.com/ZocketZero/ZocketZero/main/assets/tryhackme-badge.png)](https://tryhackme.com/p/ZocketZero)
 
 
 <!-- <picture> -->
