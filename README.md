@@ -173,6 +173,8 @@ I'm on the Red team in Cybersecurity, I use Linux, and enjoy coding.
 
 ## 💭 Quotes
 
+> If someone asks for your patience, they are asking for your surrender
+
 > "If you know the enemy and
 > know yourself, you need not fear the result of a hundred
 > battles. If you know yourself but not the enemy, for every
