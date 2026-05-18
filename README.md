@@ -20,7 +20,6 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 - **Website:** [https://nawasan.dev](https://nawasan.dev)
 - **Resume:** [https://resume.nawasan.dev](https://resume.nawasan.dev)
 - **Linkedin:** [https://www.linkedin.com/in/nawasan/](https://www.linkedin.com/in/nawasan/)
-- **Youtube:** [https://youtube.com/@Arikato111](https://youtube.com/@Arikato111)
 - **crates.io:** [https://crates.io/users/ZocketZero](https://crates.io/users/ZocketZero)
 - **npm:** [https://www.npmjs.com/~arikato111](https://www.npmjs.com/~arikato111)
 
