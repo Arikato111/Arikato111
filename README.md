@@ -2,8 +2,6 @@
 version: 3.0.0
 -->
 
-<!-- Generated from https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 -->
-
 ```
  _____          _        _     _____
 |__  /___   ___| | _____| |_ _|__  /___ _ __ ___
@@ -13,7 +11,7 @@ version: 3.0.0
 ```
 
 Hello friend!
-I'm on the Red team in Cybersecurity, I use Linux, and enjoy coding.
+I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 
 ## Contact me
 
@@ -33,8 +31,12 @@ I'm on the Red team in Cybersecurity, I use Linux, and enjoy coding.
 - **Network:** `Libera.Chat` ( `irc.libera.chat` )
 - **Channel:** `#ZocketZero`
 
-## 🏢 Badges
+### My learning
 
+- [**Tryhackme**](https://tryhackme.com/p/ZocketZero)
+- [**Hackthebox**](https://app.hackthebox.com/users/2300894)
+
+---
 
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
 ![profile_view](https://komarev.com/ghpvc/?username=arikato111)
