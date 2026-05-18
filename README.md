@@ -15,16 +15,14 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 
 ## Contact me
 
-[Email][email] | [Gitlab][gitlab] | [Website][website] | [Resume][resume] | [Youtube][youtube] | [Crates.io][crates.io] | [Npm][npm] | [Linkedin][linkedin]
-
-[email]: mailto:zocketzero@proton.me
-[gitlab]: https://gitlab.com/ZocketZero
-[website]: https://nawasan.dev
-[resume]: https://resume.nawasan.dev
-[youtube]: https://youtube.com/@Arikato111
-[crates.io]: https://crates.io/users/ZocketZero
-[npm]: https://www.npmjs.com/~arikato111
-[linkedin]: https://www.linkedin.com/in/nawasan/
+- **Email:** [zocketzero@proton.me](mailto:zocketzero@proton.me)
+- **Gitlab:** [https://gitlab.com/ZocketZero](https://gitlab.com/ZocketZero)
+- **Website:** [https://nawasan.dev](https://nawasan.dev)
+- **Resume:** [https://resume.nawasan.dev](https://resume.nawasan.dev)
+- **Linkedin:** [https://www.linkedin.com/in/nawasan/](https://www.linkedin.com/in/nawasan/)
+- **Youtube:** [https://youtube.com/@Arikato111](https://youtube.com/@Arikato111)
+- **crates.io:** [https://crates.io/users/ZocketZero](https://crates.io/users/ZocketZero)
+- **npm:** [https://www.npmjs.com/~arikato111](https://www.npmjs.com/~arikato111)
 
 ### Internet Relay Chat (IRC)
 
