@@ -15,24 +15,27 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 
 ## Contact me
 
-- **Email:** [zocketzero@proton.me](mailto:zocketzero@proton.me)
+- **Github:** [github.com/ZocketZero](https://github.com/ZocketZero)
 - **Gitlab:** [gitlab.com/ZocketZero](https://gitlab.com/ZocketZero)
+- **Debian:** [salsa.debian.org/ZocketZero](https://salsa.debian.org/ZocketZero)
+
+- **Email:** [zocketzero@proton.me](mailto:zocketzero@proton.me)
 - **Website:** [nawasan.dev](https://nawasan.dev)
 - **Resume:** [resume.nawasan.dev](https://resume.nawasan.dev)
 - **Linkedin:** [www.linkedin.com/in/nawasan/](https://www.linkedin.com/in/nawasan/)
+- **Mastodon:** [infosec.exchange/@zocketzero](https://infosec.exchange/@zocketzero)
+
 - **crates.io:** [crates.io/users/ZocketZero](https://crates.io/users/ZocketZero)
 - **npm:** [www.npmjs.com/~arikato111](https://www.npmjs.com/~arikato111)
+- **pypi:** [pypi.org/user/arikato111/](https://pypi.org/user/arikato111/)
+
+- [**Tryhackme**](https://tryhackme.com/p/ZocketZero)
+- [**Hackthebox**](https://app.hackthebox.com/users/2300894)
 
 ### Internet Relay Chat (IRC)
 
 - **Network:** `Libera.Chat` ( `irc.libera.chat` )
 - **Channel:** `#ZocketZero`
-
-### My learning
-
-- [**Tryhackme**](https://tryhackme.com/p/ZocketZero)
-- [**Hackthebox**](https://app.hackthebox.com/users/2300894)
-
 
 ## 💭 Quotes
 
@@ -48,4 +51,3 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 ---
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
 ![profile_view](https://komarev.com/ghpvc/?username=arikato111)
-
