@@ -1,5 +1,5 @@
 <!--
-version: 3.1.0
+version: 3.1.1
 -->
 
 <div align="center">
@@ -19,7 +19,7 @@ Passionate about **Linux**, Open Source, and crafting secure, efficient code.
 
 [Resume](https://resume.nawasan.dev) • [Mastodon](https://infosec.exchange/@zocketzero) • [IRC: #ZocketZero @ Libera.Chat](irc://irc.libera.chat/ZocketZero)
 
-</div>
+---
 
 ### 🛠️ Technologies & Tools
 
@@ -62,7 +62,7 @@ Passionate about **Linux**, Open Source, and crafting secure, efficient code.
 ### 📁 Where to find my work
 
 | Platform | Link |
-| :--- | :--- |
+| :---: | :---: |
 | **GitHub** | [github.com/ZocketZero](https://github.com/ZocketZero) |
 | **GitLab** | [gitlab.com/ZocketZero](https://gitlab.com/ZocketZero) |
 | **Debian** | [salsa.debian.org/ZocketZero](https://salsa.debian.org/ZocketZero) |
@@ -73,7 +73,7 @@ Passionate about **Linux**, Open Source, and crafting secure, efficient code.
 ---
 
 ### 🎯 Cybersecurity & Learning
-<p align="left">
+<p align="center">
   <a href="https://tryhackme.com/p/ZocketZero" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-ZocketZero-red?style=flat&logo=tryhackme" alt="TryHackMe" height="30"></a>
   <a href="https://app.hackthebox.com/users/2300894" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-ZocketZero-green?style=flat&logo=hackthebox" alt="HackTheBox" height="30"></a>
 </p>
@@ -95,8 +95,6 @@ Passionate about **Linux**, Open Source, and crafting secure, efficient code.
 > — **Sun Tzu**, *The Art of War*
 
 ---
-
-<div align="center">
 
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
 ![profile_view](https://komarev.com/ghpvc/?username=arikato111)
