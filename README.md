@@ -7,8 +7,6 @@ version: 3.0.0
 Hello friend!
 I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 
-## Contact me
-
 ### Source code
 
 - **Github:** [github.com/ZocketZero](https://github.com/ZocketZero)
