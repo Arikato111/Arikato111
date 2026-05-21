@@ -15,9 +15,13 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 
 ## Contact me
 
+source code:
+
 - **Github:** [github.com/ZocketZero](https://github.com/ZocketZero)
 - **Gitlab:** [gitlab.com/ZocketZero](https://gitlab.com/ZocketZero)
 - **Debian:** [salsa.debian.org/ZocketZero](https://salsa.debian.org/ZocketZero)
+
+Socials:
 
 - **Email:** [zocketzero@proton.me](mailto:zocketzero@proton.me)
 - **Website:** [nawasan.dev](https://nawasan.dev)
@@ -25,12 +29,16 @@ I'm on the Red team in Cybersecurity, using Linux, and enjoy coding.
 - **Linkedin:** [www.linkedin.com/in/nawasan/](https://www.linkedin.com/in/nawasan/)
 - **Mastodon:** [infosec.exchange/@zocketzero](https://infosec.exchange/@zocketzero)
 
+Libraries:
+
 - **crates.io:** [crates.io/users/ZocketZero](https://crates.io/users/ZocketZero)
 - **npm:** [www.npmjs.com/~arikato111](https://www.npmjs.com/~arikato111)
 - **pypi:** [pypi.org/user/arikato111/](https://pypi.org/user/arikato111/)
 
-- [**Tryhackme**](https://tryhackme.com/p/ZocketZero)
-- [**Hackthebox**](https://app.hackthebox.com/users/2300894)
+Learning:
+
+- **Tryhackme:** [tryhackme.com/p/ZocketZero](https://tryhackme.com/p/ZocketZero)
+- **Hackthebox:** [app.hackthebox.com/users/2300894](https://app.hackthebox.com/users/2300894)
 
 ### Internet Relay Chat (IRC)
 
