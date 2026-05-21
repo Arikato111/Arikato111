@@ -1,106 +1,101 @@
 <!--
-version: 3.1.1
+version: 3.1.0
 -->
 
 <div align="center">
 
-# ZocketZero
+# 🛡️ ZocketZero
+**Red Team Cybersecurity | Linux Enthusiast | Full-Stack Developer**
 
-Hello friend! 👋
-I'm a **Cybersecurity Red Team** professional, **Linux** enthusiast, and passionate **Developer**.
-
-<a href="mailto:zocketzero@proton.me"><img src="icons/gmail.svg" alt="Email" height="32"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nawasan/"><img src="icons/linkedin-original.svg" alt="LinkedIn" height="32"/></a>&nbsp;&nbsp;
-<a href="https://github.com/ZocketZero"><img src="icons/github-original.svg" alt="GitHub" height="32"/></a>&nbsp;&nbsp;
-<a href="https://nawasan.dev"><img src="icons/vercel.svg" alt="Website" height="32"/></a>&nbsp;&nbsp;
-<a href="https://resume.nawasan.dev"><img src="icons/vscode-original.svg" alt="Resume" height="32"/></a>
-
-<br>
+[![Website](https://img.shields.io/badge/Website-nawasan.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nawasan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawasan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawasan/)
+[![Email](https://img.shields.io/badge/Email-zocketzero@proton.me-red?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:zocketzero@proton.me)
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 About Me
+Cybersecurity professional specializing in **Red Teaming & Offensive Security**. 
+Passionate about **Linux**, Open Source, and crafting secure, efficient code.
 
-**Languages**
-<br>
-<img src="icons/C.svg" alt="C" height="35"/>&nbsp;
-<img src="icons/rust.svg" alt="Rust" height="35"/>&nbsp;
-<img src="icons/python-original.svg" alt="Python" height="35"/>&nbsp;
-<img src="icons/bash-original.svg" alt="Bash" height="35"/>&nbsp;
-<img src="icons/javascript-plain.svg" alt="JS" height="35"/>&nbsp;
-<img src="icons/typescript-original.svg" alt="TS" height="35"/>&nbsp;
-<img src="icons/php-plain.svg" alt="PHP" height="35"/>&nbsp;
-<img src="icons/dart.svg" alt="Dart" height="35"/>
-
-<br>
-
-**Frontend**
-<br>
-<img src="icons/html5-original.svg" alt="HTML5" height="35"/>&nbsp;
-<img src="icons/css3-original.svg" alt="CSS3" height="35"/>&nbsp;
-<img src="icons/react-original.svg" alt="React" height="35"/>&nbsp;
-<img src="icons/nextjs-original.svg" alt="Next.js" height="35"/>&nbsp;
-<img src="icons/svelte-original.svg" alt="Svelte" height="35"/>&nbsp;
-<img src="icons/Astro.svg" alt="Astro" height="35"/>&nbsp;
-<img src="icons/tailwindcss-plain.svg" alt="Tailwind" height="35"/>&nbsp;
-<img src="icons/bootstrap-original.svg" alt="Bootstrap" height="35"/>&nbsp;
-<img src="icons/flutter-original.svg" alt="Flutter" height="35"/>
-
-<br>
-
-**Backend & Databases**
-<br>
-<img src="icons/nodejs-plain.svg" alt="Node.js" height="35"/>&nbsp;
-<img src="icons/socketio-original.svg" alt="Socket.io" height="35"/>&nbsp;
-<img src="icons/mongodb-plain.svg" alt="MongoDB" height="35"/>&nbsp;
-<img src="icons/mysql-dark.svg" alt="MySQL" height="35"/>&nbsp;
-<img src="icons/firebase-plain.svg" alt="Firebase" height="35"/>
-
-<br>
-
-**Tools & DevOps**
-<br>
-<img src="icons/git-original.svg" alt="Git" height="35"/>&nbsp;
-<img src="icons/Docker.svg" alt="Docker" height="35"/>&nbsp;
-<img src="icons/npm-original-wordmark.svg" alt="NPM" height="35"/>&nbsp;
-<img src="icons/pnpm-standard.svg" alt="PNPM" height="35"/>&nbsp;
-<img src="icons/yarn-original.svg" alt="Yarn" height="35"/>&nbsp;
-<img src="icons/linux-plain.svg" alt="Linux" height="35"/>&nbsp;
-<img src="icons/ubuntu-plain.svg" alt="Ubuntu" height="35"/>
-
-<br>
-
----
-
-### 🔗 Quick Links
-
-| Category | Links |
-| :--- | :--- |
-| **Source Code** | [Github](https://github.com/ZocketZero) • [Gitlab](https://gitlab.com/ZocketZero) • [Debian Salsa](https://salsa.debian.org/ZocketZero) |
-| **Libraries** | [crates.io](https://crates.io/users/ZocketZero) • [npm](https://www.npmjs.com/~arikato111) • [PyPI](https://pypi.org/user/arikato111/) |
-| **Learning** | [TryHackMe](https://tryhackme.com/p/ZocketZero) • [HackTheBox](https://app.hackthebox.com/users/2300894) |
-| **Socials** | [Website](https://nawasan.dev) • [Mastodon](https://infosec.exchange/@zocketzero) • [Resume](https://resume.nawasan.dev) |
-
-<br>
-
-### 💬 IRC
-Network: `Libera.Chat` (`irc.libera.chat`) &nbsp; | &nbsp; Channel: `#ZocketZero`
-
-<br>
+[Resume](https://resume.nawasan.dev) • [Mastodon](https://infosec.exchange/@zocketzero) • [IRC: #ZocketZero @ Libera.Chat](irc://irc.libera.chat/ZocketZero)
 
 </div>
 
-## 💭 Quotes
+### 🛠️ Technologies & Tools
 
-> If someone asks for your patience, they are asking for your surrender
+#### 💻 Languages & Core
+<p align="left">
+  <img src="icons/rust.svg" alt="rust" width="40" height="40"/>
+  <img src="icons/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="icons/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+  <img src="icons/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="icons/C.svg" alt="c" width="40" height="40"/>
+  <img src="icons/php-plain.svg" alt="php" width="40" height="40"/>
+  <img src="icons/bash-original.svg" alt="bash" width="40" height="40"/>
+</p>
 
-> "If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat."
->
-> — *Sun Tzu's The Art of War*
+#### 🌐 Web & Frameworks
+<p align="left">
+  <img src="icons/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="icons/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="icons/Astro.svg" alt="astro" width="40" height="40"/>
+  <img src="icons/svelte-original.svg" alt="svelte" width="40" height="40"/>
+  <img src="icons/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <img src="icons/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
+  <img src="icons/flutter-original.svg" alt="flutter" width="40" height="40"/>
+</p>
 
-<br>
+#### 🔧 Infrastructure & Databases
+<p align="left">
+  <img src="icons/linux-plain.svg" alt="linux" width="40" height="40"/>
+  <img src="icons/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="icons/Docker.svg" alt="docker" width="40" height="40"/>
+  <img src="icons/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="icons/mongodb-plain.svg" alt="mongodb" width="40" height="40"/>
+  <img src="icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="icons/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="icons/vercel.svg" alt="vercel" width="40" height="40"/>
+</p>
 
 ---
+
+### 📁 Where to find my work
+
+| Platform | Link |
+| :--- | :--- |
+| **GitHub** | [github.com/ZocketZero](https://github.com/ZocketZero) |
+| **GitLab** | [gitlab.com/ZocketZero](https://gitlab.com/ZocketZero) |
+| **Debian** | [salsa.debian.org/ZocketZero](https://salsa.debian.org/ZocketZero) |
+| **Crates.io** | [crates.io/users/ZocketZero](https://crates.io/users/ZocketZero) |
+| **NPM** | [npmjs.com/~arikato111](https://www.npmjs.com/~arikato111) |
+| **PyPI** | [pypi.org/user/arikato111/](https://pypi.org/user/arikato111/) |
+
+---
+
+### 🎯 Cybersecurity & Learning
+<p align="left">
+  <a href="https://tryhackme.com/p/ZocketZero" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-ZocketZero-red?style=flat&logo=tryhackme" alt="TryHackMe" height="30"></a>
+  <a href="https://app.hackthebox.com/users/2300894" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-ZocketZero-green?style=flat&logo=hackthebox" alt="HackTheBox" height="30"></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arikato111&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikato111&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💭 Quotes
+> *"If someone asks for your patience, they are asking for your surrender."*
+
+> *"If you know the enemy and know yourself, you need not fear the result of a hundred battles."*
+> — **Sun Tzu**, *The Art of War*
+
+---
+
 <div align="center">
 
 [![Manoonchai](cache/manoonchai-badge.svg)](https://manoonchai.com/)
