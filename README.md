@@ -24,7 +24,7 @@ Passionate about **Linux**, Open Source, and crafting secure, efficient code.
 ### 🛠️ Technologies & Tools
 
 #### 💻 Languages & Core
-<p align="left">
+<p align="center">
   <img src="icons/rust.svg" alt="rust" width="40" height="40"/>
   <img src="icons/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="icons/javascript-plain.svg" alt="javascript" width="40" height="40"/>
@@ -35,7 +35,7 @@ Passionate about **Linux**, Open Source, and crafting secure, efficient code.
 </p>
 
 #### 🌐 Web & Frameworks
-<p align="left">
+<p align="center">
   <img src="icons/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="icons/react-original.svg" alt="react" width="40" height="40"/>
   <img src="icons/Astro.svg" alt="astro" width="40" height="40"/>
@@ -46,7 +46,7 @@ Passionate about **Linux**, Open Source, and crafting secure, efficient code.
 </p>
 
 #### 🔧 Infrastructure & Databases
-<p align="left">
+<p align="center">
   <img src="icons/linux-plain.svg" alt="linux" width="40" height="40"/>
   <img src="icons/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="icons/Docker.svg" alt="docker" width="40" height="40"/>
